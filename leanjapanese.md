@@ -1,4 +1,4 @@
-#Learn Japanese ＜文法N3＞
+# Learn Japanese ＜文法N3＞
 * ~ことになる
 > 台風のため、試合が中止することになりました。
 
